@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Fatima Ezzahra Missiameri<br>I'm a backend developer from Morocco<br>I'm currently a master student in Cadi Ayyad University <br>I'm currently learning Next.js<br>Ask me about Laravel, and Spring framework
+Hi! I'm Fatima Ezzahra Missiameri<br>I'm a software engineer from Morocco<br>I'm currently learning Next.js and Symfony<br>Ask me about React.js, Nextjs, Laravel, and Spring framework
 
 
 # 💻 Tech Stack:
