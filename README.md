@@ -1,5 +1,17 @@
 # 💫 About Me:
-Hi! I'm Fatima Ezzahra Missiameri<br>I'm a software engineer from Morocco<br>I'm currently learning Next.js and Symfony<br>Ask me about React.js, Nextjs, Laravel, and Spring framework
+Hey there! 👋
+
+I'm a software engineer who loves building cool stuff and exploring new technologies. I have a solid background in full-stack development, working with both backend and frontend frameworks.
+
+💻 Tech I work with:
+
+    Backend: Spring Boot, Django, Node.js
+    Frontend: React.js, Angular
+    Databases: MySQL, Firebase
+    DevOps & Deployment: Azure DevOps, Heroku
+    Other: Agile, Onion Architecture, Microsoft Graph API
+
+I enjoy solving problems, learning new things, and collaborating on exciting projects. Currently, I’m working on Symfony Framework + React.js + Microsoft Graph API projects. Always up for a challenge!
 
 # 💻 Tech Stack:
 
