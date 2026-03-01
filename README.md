@@ -5,7 +5,7 @@ I'm a software engineer who loves building cool stuff and exploring new technolo
 
 💻 Tech I work with:
 
-    Backend: Symfony, Laravel, Spring Boot
+    Backend: Symfony, Laravel
     Frontend: React.js, Nextjs
     Databases: MySQL, Firebase
     DevOps & Deployment: Azure DevOps, Heroku
