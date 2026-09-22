@@ -2,7 +2,7 @@
 
 I'm a software engineer from Marrakech, Morocco, and I enjoy building web applications and learning new technologies.
 
-I mainly work with **React.js, Next.js, Vue.js, Symfony, and Laravel**, with experience across both frontend and backend development.
+I mainly work with **React.js, Next.js, Vue.js, and Laravel**, with experience across both frontend and backend development.
 
 ### Tech
 
