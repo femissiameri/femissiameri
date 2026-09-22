@@ -1,45 +1,16 @@
-# 💫 About Me:
-Hey there! 👋
+# Hi, I'm Fatima Ezzahra 👋
 
-I'm a software engineer who loves building cool stuff and exploring new technologies. I have a solid background in full-stack development, working with both backend and frontend frameworks.
+I'm a software engineer from Marrakech, Morocco, and I enjoy building web applications and learning new technologies.
 
-💻 Tech I work with:
+I mainly work with **React.js, Next.js, Vue.js, Symfony, and Laravel**, with experience across both frontend and backend development.
 
-    Backend: Symfony, Laravel
-    Frontend: React.js, Nextjs
-    Databases: MySQL, Firebase
-    DevOps & Deployment: Azure DevOps, Heroku
-    Other: Agile, Onion Architecture, Microsoft Graph API
+### Tech
 
-I enjoy solving problems, learning new things, and collaborating on exciting projects. Currently, I’m working on Symfony Framework + React.js + Microsoft Graph API projects. Always up for a challenge!
+**Frontend:** React.js · Next.js · Vue.js · TypeScript · JavaScript · Tailwind CSS  
+**Backend:** Symfony · Laravel · Spring Boot · PHP · Java  
+**Database:** MySQL · MariaDB · MongoDB · MS SQL Server · Firebase  
+**Tools:** Git · GitHub · Docker · Azure · Postman
 
-# 💻 Tech Stack:
+### Find me
 
-### Web Development
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,sass,php&theme=light)](https://skillicons.dev)
-
-
-### Mobile Development
-[![My Skills](https://skillicons.dev/icons?i=kotlin&theme=light)](https://skillicons.dev)
-
-
-### Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&theme=light)](https://skillicons.dev)
-
-
-### DevOps
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,docker,githubactions&theme=light)](https://skillicons.dev)
-
-
-### Operating Systems
-[![My Skills](https://skillicons.dev/icons?i=linux,windows&theme=light)](https://skillicons.dev)
-
-
-### Software
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,phpstorm,androidstudio,notion,figma,postman,obsidian,vim&theme=light)](https://skillicons.dev)
-
-
----
-[![](https://visitcount.itsvg.in/api?id=femissiameri&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[LinkedIn](https://www.linkedin.com/in/fatimaezzahra-missiameri/) · [Portfolio](https://www.femissiameri.com) · [Email](mailto:contact@femissiameri.com)
