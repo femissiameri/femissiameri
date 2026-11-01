@@ -8,7 +8,7 @@ I mainly work with **React.js, Next.js, Vue.js, and Laravel**, with experience a
 
 **Frontend:** React.js · Next.js · Vue.js · TypeScript · JavaScript · Tailwind CSS  
 **Backend:** Symfony · Laravel · Spring Boot · PHP · Java  
-**Database:** MySQL · MariaDB · MongoDB · MS SQL Server · Firebase  
+**Database:** MySQL · MariaDB · MongoDB · MS SQL Server · PostgreSQL  
 **Tools:** Git · GitHub · Docker · Azure · Postman
 
 ### Find me
